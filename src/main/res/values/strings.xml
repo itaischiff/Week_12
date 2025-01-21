@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="form_activity_label" />
+    <string name="write_post_here">Write post here</string>
+    <string name="save">Save</string>
+    <string name="add">Add</string>
+</resources>
